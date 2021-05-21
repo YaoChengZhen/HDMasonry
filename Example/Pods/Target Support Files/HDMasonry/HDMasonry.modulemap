@@ -1,0 +1,6 @@
+framework module HDMasonry {
+  umbrella header "HDMasonry-umbrella.h"
+
+  export *
+  module * { export * }
+}

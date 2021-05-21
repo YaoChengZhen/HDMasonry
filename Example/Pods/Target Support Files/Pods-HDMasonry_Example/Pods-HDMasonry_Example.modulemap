@@ -1,0 +1,6 @@
+framework module Pods_HDMasonry_Example {
+  umbrella header "Pods-HDMasonry_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
