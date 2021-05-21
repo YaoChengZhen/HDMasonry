@@ -1,5 +1,5 @@
 PODS:
-  - HDMasonry (0.1.0)
+  - HDMasonry (0.1.1)
 
 DEPENDENCIES:
   - HDMasonry (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HDMasonry: 2801f0dea6a9002c474db04b660854b74a7df134
+  HDMasonry: 15a989b08194fb785161ca65b39cfb425ac39180
 
 PODFILE CHECKSUM: 00f17bbb88bfc4099597bc09232b38dc1e8111ca
 

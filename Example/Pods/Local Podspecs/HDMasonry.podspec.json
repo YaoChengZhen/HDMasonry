@@ -1,6 +1,6 @@
 {
   "name": "HDMasonry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "HDMasonry.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/YaoChengZhen/HDMasonry",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/YaoChengZhen/HDMasonry.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "HDMasonry/Classes/**/*"
+  "source_files": "HDMasonry/Classes/**/*",
+  "frameworks": "UIKit"
 }
